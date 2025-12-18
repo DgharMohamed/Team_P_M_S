@@ -1,0 +1,4 @@
+node_module/
+.env
+*log
+fichier_inutile.txt
